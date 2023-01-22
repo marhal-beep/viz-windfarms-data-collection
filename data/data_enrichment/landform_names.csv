@@ -1,0 +1,16 @@
+landform,landform_name
+11,Peak/ridge (warm)
+12,Peak/ridge
+13,Peak/ridge (cool)
+14,Mountain/divide
+15,Cliff
+21,Upper slope (warm)
+22,Upper slope
+23,Upper slope (cool)
+24,Upper slope (flat)
+31,Lower slope (warm)
+32,Lower slope
+33,Lower slope (cool)
+34,Lower slope (flat)
+41,Valley
+42,Valley (narrow)

@@ -1,0 +1,24 @@
+land_coverage,name
+0,Unknown
+20,Shrubs
+30,Herbaceous vegetation
+40,Agriculture
+50,Urban
+60,Sparse vegetation
+70,Snow and ice
+80,Permanent water bodies
+90,Herbaceous wetland
+100,Moss and lichen
+111,Closed forest
+112,Closed forest
+113,Closed forest
+114,Closed forest
+115,Closed forest
+116,Closed forest
+121,Open forest
+122,Open forest
+123,Open forest
+124,Open forest
+125,Open forest
+126,Open forest
+200,Oceans and seas
